@@ -1,0 +1,4 @@
+前端：vue3.0+vite   npm run dev
+中台系统： vue-admin-server+vite    npm start
+后台服务器：express+mongod   命令行：npm i nodemon     ； nodemon index.js(在index.js对应父文件夹下）， http://localhost:9990/
+                  
